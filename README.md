@@ -5,20 +5,20 @@ Sou GameDeveloper com experiências na criação de jogos digitais usando a Godo
 
 Você pode ver alguns projetos que estão no meu portfólio no link a seguir: https://sites.google.com/view/portfolio-mauricio-rodrigues/p%C3%A1gina-inicial?authuser=2
 
-Alguns dos meus projetos:
+👉 Alguns dos meus projetos:
 
 
 
-CatShooter - https://implanic.itch.io/catshooter
+🎮 CatShooter - https://implanic.itch.io/catshooter
 
-TanKonnection - https://implanic.itch.io/tankonnection
-
-
+🎮 TanKonnection - https://implanic.itch.io/tankonnection
 
 
 
 
-Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva
+
+
+📩 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva
 
 Meu Linkedln: https://www.linkedin.com/in/mauricio-rodrigues-61963b325/
 
