@@ -23,7 +23,7 @@ Você pode ver alguns projetos que estão no meu portfólio no link a seguir: ht
 
 **CONTATO:**<br>
 
-📩 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva<br>
+📩 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva@gmail.com<br>
 
 Meu Linkedln: https://www.linkedin.com/in/mauricio-rodrigues-61963b325/
 
