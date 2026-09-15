@@ -1,3 +1,5 @@
+![Capa do perfil de Maurício, contém suas habilidades, e-mail para contato, número de telefone e a profissão que almeja](https://media.licdn.com/dms/image/v2/D4D16AQFA3Lfg8uw_xQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ7LKW4HI4AU-/0/1781524950792?e=1790812800&v=beta&t=KtXzE8MUG6A8gqX34lb6DhoDZZbRtgo_keRBTDIyVCE)
+
 ## PT-BR
 **SOBRE MIM:**
 
