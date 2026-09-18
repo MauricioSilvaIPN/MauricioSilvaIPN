@@ -26,7 +26,7 @@ I am a Gameplay Programmer focused on creating engaging, smooth, and performant 
 
 📩 E-mail : mauriciorodriguess.silva@gmail.com<br>
 
-💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
+💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricior-silva/)
 
 🔗 Itch-io : [Itch.io](https://implanic.itch.io/)
 
