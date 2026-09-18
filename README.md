@@ -1,4 +1,4 @@
-![Capa do perfil de Maurício, contém suas habilidades, e-mail para contato, número de telefone e a profissão que almeja](https://media.licdn.com/dms/image/v2/D4D16AQFA3Lfg8uw_xQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ7LKW4HI4AU-/0/1781524950792?e=1790812800&v=beta&t=KtXzE8MUG6A8gqX34lb6DhoDZZbRtgo_keRBTDIyVCE)
+<img width="1584" height="396" alt="Capa feita por IA, mostrando as competências técnicas, o nome Maurício Rodrigues da Silva e o e-mail para contato" src="https://github.com/user-attachments/assets/fbc4cdad-9af2-4f88-93fb-d49ffea5c8a7" />
 
 ## PT-BR
 **SOBRE MIM:**
