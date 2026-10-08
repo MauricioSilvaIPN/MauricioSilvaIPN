@@ -3,7 +3,7 @@
 ## PT-BR
 **SOBRE MIM:**
 
-Sou Gameplay Programmer focado no desenvolvimento de jogos 2D envolventes, fluídos e performáticos, desde protótipos rápidos até sistemas de mecânicas completos. Tenho experiência com as engines Godot e Unity, aplicando as melhores práticas de arquitetura e programação de jogos.
+Sou Software & Game Developer focado no desenvolvimento de jogos 2D envolventes, fluídos e performáticos, desde protótipos rápidos até sistemas de mecânicas completos. Tenho experiência com as engines Godot e Unity, aplicando as melhores práticas de arquitetura e programação de jogos.
 
 
 ---
@@ -11,7 +11,7 @@ Sou Gameplay Programmer focado no desenvolvimento de jogos 2D envolventes, fluí
 ## EN-US
 **ABOUT ME:**
 
-I am a Gameplay Programmer focused on creating engaging, smooth, and performant 2D games, ranging from fast prototypes to complete gameplay systems. I have experience with both Godot and Unity engines, applying best practices in game architecture and programming.
+I'am a Software & Game Developer focused on creating engaging, smooth, and performant 2D games, ranging from fast prototypes to complete gameplay systems. I have experience with both Godot and Unity engines, applying best practices in game architecture and programming.
 
 
 
