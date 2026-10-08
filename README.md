@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Capa feita por IA, mostrando as competências técnicas, o nome Maurício Rodrigues da Silva e o e-mail para contato" src="https://github.com/user-attachments/assets/fbc4cdad-9af2-4f88-93fb-d49ffea5c8a7" />
+![Capa com nome de usuário Maurício Rodrigues da Silva, profissão Software e Game Developer e icones de suas habilidades técnicas, Git, Godot, C# e Unity](https://media.licdn.com/dms/image/v2/D4D16AQFvRicBkOveKg/profile-displaybackgroundimage-shrink_350_1400/B4DaEcdDTNHsAU-/0/1791478740444?e=1793232000&v=beta&t=NtGwuRLtEBz2vrpCLo2xBp-H1gy9UPXPDfl7Q9J8HzE)
 
 ## PT-BR
 **SOBRE MIM:**
