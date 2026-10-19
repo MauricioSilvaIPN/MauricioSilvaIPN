@@ -28,5 +28,7 @@ I'am a Software & Game Developer focused on creating engaging, smooth, and perfo
 
 💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricior-silva/)
 
+🗂️ Portfolio : [Portfolio](https://mauriciosilvaipn.github.io/)
+
 🔗 Itch-io : [Itch.io](https://implanic.itch.io/)
 
