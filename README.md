@@ -1,4 +1,4 @@
-![Capa com nome de usuário Maurício Rodrigues da Silva, profissão Software e Game Developer e icones de suas habilidades técnicas, Git, Godot, C# e Unity](https://media.licdn.com/dms/image/v2/D4D16AQFvRicBkOveKg/profile-displaybackgroundimage-shrink_350_1400/B4DaEcdDTNHsAU-/0/1791478740444?e=1793232000&v=beta&t=NtGwuRLtEBz2vrpCLo2xBp-H1gy9UPXPDfl7Q9J8HzE)
+![Capa com nome de usuário Maurício Rodrigues da Silva, profissão Software e Game Developer e icones de suas habilidades técnicas, Git, Godot, C# e Unity](https://media.licdn.com/dms/image/v2/D4D16AQFvRicBkOveKg/profile-displaybackgroundimage-shrink_350_1400/B4DaEcdDTNHsAU-/0/1791478740444?e=1795046400&v=beta&t=ql7ha9-PlsLv1j32PI0aaGyeyxEfSyD43PFJnm2BpMk)
 
 ## PT-BR
 **SOBRE MIM:**
