@@ -18,7 +18,7 @@ I'am a Software & Game Developer focused on creating engaging, smooth, and perfo
 ---
 
 ### TECNOLOGIAS / TECHNOLOGIES:
-[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
+[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,dotnet,github,git)](https://skillicons.dev)
 
 ---
 
