@@ -1,5 +1,3 @@
-![Capa com nome de usuário Maurício Rodrigues da Silva, profissão Software e Game Developer e icones de suas habilidades técnicas, Git, Godot, C# e Unity](https://media.licdn.com/dms/image/v2/D4D16AQFvRicBkOveKg/profile-displaybackgroundimage-shrink_350_1400/B4DaEcdDTNHsAU-/0/1791478740444?e=1795046400&v=beta&t=ql7ha9-PlsLv1j32PI0aaGyeyxEfSyD43PFJnm2BpMk)
-
 ## PT-BR
 **SOBRE MIM:**
 
@@ -18,7 +16,9 @@ I'am a Software & Game Developer focused on creating engaging, smooth, and perfo
 ---
 
 ### TECNOLOGIAS / TECHNOLOGIES:
-[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,dotnet,github,git)](https://skillicons.dev)
+[![**ENGINES**](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)<br>
+[![**LINGUAGENS**](https://skillicons.dev/icons?i=cs,dotnet,git)](https://skillicons.dev)<br>
+[![**TECNOLOGIAS**](https://skillicons.dev/icons?i=github,linux)](https://skillicons.dev)
 
 ---
 
