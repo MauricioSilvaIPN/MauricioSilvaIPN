@@ -27,13 +27,13 @@ I'm currently pursuing a degree in Systems Analysis and Development.
 #### Engines:
 <p>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity"></a>
-  <a href="#"><img alt="Godot" src="https://img.shields.io/badge/Godot-white?logo=godotengine"></a>
+  <a href="#"><img alt="Godot" src="https://img.shields.io/badge/Godot-94CEF2?logo=godotengine"></a>
 </p>
 
 #### Languages:
 <p>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-purple"></a>
-  <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-white?logo=godotengine"></a>
+  <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-94CEF2?logo=godotengine"></a>
 </p>
 
 #### Technologies:
