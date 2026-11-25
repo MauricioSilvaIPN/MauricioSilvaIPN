@@ -1,4 +1,8 @@
 # Hi, I'm Maurício Silva 👋
+<a href="https://www.linkedin.com/in/mauricior-silva/"><img src="https://skillicons.dev/icons?i=linkedin">
+<a href="https://mauriciosilvaipn.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
+</a>
 
 ## PT-BR
 **SOBRE MIM:**
@@ -21,21 +25,30 @@ I'm currently pursuing a degree in Systems Analysis and Development.
 
 ### HARD SKILLS:
 #### Engines:
-[![**ENGINES**](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)<br>
+<p>
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity"></a>
+  <a href="#"><img alt="Godot" src="https://img.shields.io/badge/Godot-white?logo=godotengine"></a>
+</p>
+
 #### Languages:
-[![**LINGUAGENS**](https://skillicons.dev/icons?i=cs,godot)](https://skillicons.dev)<br>
+<p>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-purple"></a>
+  <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-white?logo=godotengine"></a>
+</p>
+
 #### Technologies:
-[![**TECNOLOGIAS**](https://skillicons.dev/icons?i=dotnet,git,github,linux)](https://skillicons.dev)
+<p>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-gray?logo=linux"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-orange?logo=git"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-purple?logo=.NET"></a>
+</p>
 
 ---
 
 ### CONTATO / CONTACT:<br>
 
 📩 E-mail : mauriciorodriguess.silva@gmail.com<br>
-
-💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricior-silva/)
-
-🗂️ Portfolio : [Portfolio](https://mauriciosilvaipn.github.io/)
 
 🔗 Itch-io : [Itch.io](https://implanic.itch.io/)
 
