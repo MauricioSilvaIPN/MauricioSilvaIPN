@@ -3,7 +3,7 @@
 ## PT-BR
 **SOBRE MIM:**
 
-Sou Software & Game Developer focado no desenvolvimento de sistemas envolventes, fluidos e performáticos, com grande paixão e experiência em jogos 2D, desde protótipos rápidos até sistemas de mecânicas completos. Tenho experiência com as engines Godot e Unity, aplicando as melhores práticas de arquitetura e programação de jogos.
+Sou Software & Game Developer focado no desenvolvimento de sistemas envolventes, fluidos e performáticos, com grande paixão e experiência em jogos 2D, desde protótipos rápidos até sistemas de mecânicas completos. Tenho experiência com as engines Godot e Unity, aplicando as melhores práticas de arquitetura e programação de jogos. <br>
 Eu estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 
@@ -12,7 +12,7 @@ Eu estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 ## EN-US
 **ABOUT ME:**
 
-I'm a Software & Game Developer focused on creating engaging, smooth, and performant systems, with a huge passion and experience with 2D games, ranging from fast prototypes to complete gameplay systems. I have experience with both Godot and Unity engines, applying best practices in game architecture and programming.
+I'm a Software & Game Developer focused on creating engaging, smooth, and performant systems, with a huge passion and experience with 2D games, ranging from fast prototypes to complete gameplay systems. I have experience with both Godot and Unity engines, applying best practices in game architecture and programming. <br>
 I'm currently pursuing a degree in Systems Analysis and Development.
 
 
