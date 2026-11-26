@@ -48,11 +48,3 @@ I'm currently pursuing a degree in Systems Analysis and Development.
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET"></a>
 </p>
 
----
-
-### CONTATO / CONTACT:<br>
-
-📩 E-mail : mauriciorodriguess.silva@gmail.com<br>
-
-🔗 Itch-io : [Itch.io](https://implanic.itch.io/)
-
