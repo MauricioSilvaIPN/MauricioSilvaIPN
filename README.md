@@ -1,7 +1,11 @@
 # Hi, I'm Maurício Silva 👋
 <a href="https://www.linkedin.com/in/mauricior-silva/"><img src="https://skillicons.dev/icons?i=linkedin">
+<a href="mauriciorodriguess.silva@gmail.com"><img src="https://skillicons.dev/icons?i=gmail">
 <a href="https://mauriciosilvaipn.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
+</a>
+<a href="https://implanic.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&color=F2F2F2&logo=itch.io" />
 </a>
 
 ## PT-BR
