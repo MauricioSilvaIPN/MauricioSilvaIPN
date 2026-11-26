@@ -1,12 +1,15 @@
 # Hi, I'm Maurício Silva 👋
-<a href="https://www.linkedin.com/in/mauricior-silva/"><img src="https://skillicons.dev/icons?i=linkedin">
-<a href="mauriciorodriguess.silva@gmail.com"><img src="https://skillicons.dev/icons?i=gmail">
+<a href="https://www.linkedin.com/in/mauricior-silva/">
+  <img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&color=448FF2&logoColor=black"></a>
+
+<a href="mauriciorodriguess.silva@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white"></a>
+  
 <a href="https://mauriciosilvaipn.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
-</a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black"></a>
+  
 <a href="https://implanic.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&color=F2F2F2&logo=itch.io" />
-</a>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&color=FA5C5C&logo=itch.io&logoColor=white"></a>
 
 ## PT-BR
 **SOBRE MIM:**
