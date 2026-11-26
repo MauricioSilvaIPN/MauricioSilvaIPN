@@ -41,7 +41,7 @@ I'm currently pursuing a degree in Systems Analysis and Development.
 
 #### Languages:
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" height="29"/></a>
+  <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"></a>
   <a href="#"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"></a>
 </p>
 
